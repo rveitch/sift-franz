@@ -1,0 +1,23 @@
+{
+  "name": "Sift",
+  "version": "1.0.0",
+  "description": "Sift | FCC Search",
+  "main": "index.js",
+  "author": "Ryan Veitch <ryan.r.veitch@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://fccsearch.herokuapp.com",
+    "serviceName": "Sift",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
